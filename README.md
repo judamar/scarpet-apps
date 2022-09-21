@@ -2,5 +2,5 @@
 Apps de scarpet creadas por mí
 
 # instalar
-configurar este repo en el carpet
+configurar este repo en el carpet con el comando 
 
